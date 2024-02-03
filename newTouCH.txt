@@ -1,0 +1,1 @@
+this describes the process to add files by Bash and then Commit to hub
